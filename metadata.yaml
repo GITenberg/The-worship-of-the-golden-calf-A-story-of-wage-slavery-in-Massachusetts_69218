@@ -1,0 +1,32 @@
+_repo: The-worship-of-the-golden-calf-A-story-of-wage-slavery-in-Massachusetts_69218
+_version: 0.0.1
+creator:
+  author:
+    agent_name: French, Charles Sheldon
+    gutenberg_agent_id: '55170'
+    url: http://www.gutenberg.org/2009/agents/55170
+description: ''
+gutenberg_issued: '2022-10-24'
+identifiers:
+  gutenberg: '69218'
+  lccn: 08023107
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.112231
+pgterms:marc905: 20220501061232french
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: Steve Mattern, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: 'United States: Charles Sheldon French,1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political fiction'
+- !lcsh 'Massachusetts -- Fiction'
+- !lcsh 'Mills and mill-work -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The worship of the golden calf: A story of wage-slavery in Massachusetts'
+url: http://www.gutenberg.org/ebooks/69218
